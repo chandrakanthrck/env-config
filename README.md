@@ -27,7 +27,6 @@ For example, to fetch application-dev.yml for the hotelservice, the URL would be
 ```bash
 http://localhost:8888/hotelservice/dev/main
 ```
-
 ### Active Profiles:
 **Default Profile:** application.yml
 **Development Profile** application-dev.yml
