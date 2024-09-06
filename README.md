@@ -37,7 +37,7 @@ http://localhost:8888/hotelservice/dev/main
 ## Clone the repository:
 
 ```bash
-git clone https://github.com/chandrakanthrck/config-repo.git
+git clone git@github.com:chandrakanthrck/env-config.git
 ```
 **Edit the YAML files:** Make changes to the respective application.yml, application-dev.yml, or application-prod.yml based on the environment.
 
